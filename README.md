@@ -1,9 +1,9 @@
 # Olá, eu sou o Daniel Carneiro 👋
 
 ### 🚀 Engenheiro de Software & Especialista TOTVS Protheus
-Atuo na **TOTVS** com foco em sustentação técnica avançada (N2/N3), diagnósticos de incidentes críticos e suporte especializado no **ERP Protheus**, com ênfase nos módulos de **Estoque, Custos e Compras**.
+Atuo na **TOTVS** com foco em sustentação técnica avançada, diagnósticos de incidentes críticos e suporte especializado no **ERP Protheus**, com ênfase nos módulos de **Estoque/ Custos, Compras e Faturamento**.
 
-🎓 Cursando **Engenharia de Software** (Cruzeiro do Sul)
+🎓 Graduado em **Engenharia de Software** (Cruzeiro do Sul)
 
 ---
 
