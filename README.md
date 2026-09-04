@@ -16,22 +16,6 @@ Atuo na **TOTVS** com foco em sustentação técnica avançada (N2/N3), diagnós
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center" display="block">
-  <a href="https://github.com/DevDaniel47">
-  <img height="150px" width="450px" src="https://github-readme-stats.vercel.app/api?username=DevDaniel47&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150px" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaniel47&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ocarneirodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocarneirodev&layout=compact&langs_count=5&theme=dark"/>
-</div>
-
----
-
 ### 📬 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ocarneirodev)
